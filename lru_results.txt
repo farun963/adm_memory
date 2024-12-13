@@ -1,0 +1,25 @@
+LRU Algoritmo de Reemplazo de Páginas
+Tamaño de Marco: 3
+Fallos de Página: 15
+
+Historial de Estados de Marcos:
+Paso 1: [1, '-', '-']
+Paso 2: [1, 3, '-']
+Paso 3: [1, 3, 2]
+Paso 4: [3, 2, 1]
+Paso 5: [2, 1, 5]
+Paso 6: [1, 5, 3]
+Paso 7: [5, 3, 4]
+Paso 8: [3, 4, 1]
+Paso 9: [4, 1, 5]
+Paso 10: [1, 5, 2]
+Paso 11: [5, 2, 6]
+Paso 12: [2, 6, 7]
+Paso 13: [6, 7, 5]
+Paso 14: [6, 5, 7]
+Paso 15: [5, 7, 2]
+Paso 16: [7, 2, 5]
+Paso 17: [2, 5, 3]
+Paso 18: [2, 3, 5]
+Paso 19: [2, 5, 3]
+Paso 20: [5, 3, 1]
